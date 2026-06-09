@@ -1,9 +1,21 @@
 # Todo App (Flask) — Dockerized
-
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-3.0.3-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JSON-Storage-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/License-MIT-4CAF50?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" alt="Build">
+  <img src="https://img.shields.io/badge/Port-5000-FF6F00?style=flat-square" alt="Port">
+</p>
 A clean and simple **To-Do web application** built with **Python Flask** and packaged for easy deployment using **Docker**.
-
+ 
 Tasks are stored in a local **`data/tasks.json`** file (persistent on the container filesystem; mount a volume for durability across restarts).
-
+ 
 ---
 
 ## Screenshots
